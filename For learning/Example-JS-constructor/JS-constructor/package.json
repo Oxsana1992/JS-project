@@ -1,0 +1,22 @@
+{
+  "name": "js-constructor",
+  "version": "1.0.0",
+  "description": "js code",
+  "main": "./src/index.js",
+  "targets": {
+    "main": false
+  },
+  "scripts": {
+    "serve": "parcel ./src/index.html -p 4400 --open",
+    "build": "parcel build ./src/index.html --no-source-maps"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Oxana <mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}

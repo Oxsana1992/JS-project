@@ -7,15 +7,9 @@ export const model = [
     new TitleBlock('Конструктор сайтов на JS!', {
         tag: 'h2',
         styles: {background: 'linear-gradient(to right, #DE3163, #40E0D0)', color: '#fff', 'text-align': 'center', padding: '1.5rem'}}
-        ),
+        ), 
 
-    // new Block('title', 'Конструктор сайтов на JS!', {
-    //     tag: 'h2',
-    //     styles: {background: 'linear-gradient(to right, #DE3163, #40E0D0)', color: '#fff', 'text-align': 'center', padding: '1.5rem'}}),
-
-    // {type: 'title', value: 'Конструктор сайтов на JS!', options: {tag: 'h2', styles: `background: linear-gradient(to right, #ff0099, #493240); color: #fff; text-align: center; padding: 1.5rem;` styles: {background: 'linear-gradient(to right, #DE3163, #40E0D0)', color: '#fff', 'text-align': 'center', padding: '1.5rem' }}},
-
-    new ImageBlock(image, {
+        new ImageBlock(image, {
         styles: {
             display: 'flex',
             'justify-content': 'center',
@@ -28,10 +22,6 @@ export const model = [
         alt: 'Это картинка'
     }),
 
-    // new Block('image', image, {styles: {display: 'flex', 'justify-content': 'center', padding: '2rem 0'}, imageStyles: { width: '500px', heigth: 'auto'}, alt: 'Это картинка'}),
-
-    // {type: 'image', value: image, options: {styles: {display: 'flex', 'justify-content': 'center', padding: '2rem 0'}, imageStyles: {width: '500px', heigth: 'auto'}, alt: 'Это картинка'}},
-
     new ColumnsBlock([
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, aut molestiae velit doloremque ea ipsam.', 
         'Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, aut molestiae velit doloremque ea ipsam.',
@@ -42,19 +32,11 @@ export const model = [
             color: '#fff',
             padding: '2rem 0'
         }}),
-
-    // new Block('columns', ['Lorem.', 'Lorem.', 'Lorem.'], {styles: {background: 'linear-gradient(to bottom, #DE3163, #40E0D0)', color: '#fff', padding: '2rem 0'}}),
-
-    // {type: 'columns', value: ['Lorem ipsum.', 'Lorem ipsum.', 'Lorem ipsum.'], options: {styles: {background: 'linear-gradient(to bottom, #DE3163, #40E0D0)', color: '#fff', padding: '2rem 0'}}},
-    
+        
     new TextBlock(textcont, {
         styles: {
             background: 'linear-gradient(to left, #DE3163, #40E0D0)',
             'font-weight': 'bold',
             padding: '1rem'
         }}),
-
-    // new Block('text', textcont, {styles: {background: 'linear-gradient(to left, #DE3163, #40E0D0)', 'font-weight': 'bold', padding: '1rem'}}),
-
-    // {type: 'text', value: textcont, options: {styles: {background: 'linear-gradient(to left, #DE3163, #40E0D0)', 'font-weight': 'bold', padding: '1rem'}}}
 ]
