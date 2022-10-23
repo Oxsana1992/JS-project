@@ -1,0 +1,25 @@
+#app {
+  position: relative;
+}
+
+.content {
+  position: absolute;
+  top: 0;
+  left: 230px;
+  right: 0;
+}
+
+.sitebar {
+  width: 200px;
+  z-index: 100;
+  background: linear-gradient(#de3163, #40e0d0);
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  overflow-y: auto;
+  box-shadow: inset -1px 0 #0000001a;
+}
+
+/*# sourceMappingURL=index.5525e4b8.css.map */
