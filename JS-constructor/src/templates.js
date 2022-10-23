@@ -61,7 +61,12 @@ function image(block) {
     // <img src="${block.value}">
     // </div>
     // `
-    return row(`<img src="${block.value}">`, css(block.options.styles))
+    // return row(`<img src="${block.value}">`, css(block.options.styles))
+
+    // const {imageStyles, alt = '', styles} = block.options
+    // return row(`<img src="${block.value}" alt="${alt}" style="${css(imageStyles)}" />`, css(styles))
+    const {imageStyles: iS, alt = '', styles} = block.options
+    return row(`<img src="${block.value}" alt="${alt}" style="${css(iS)}" />`, css(styles))
 }
 export const templates = {
     title: title,

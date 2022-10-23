@@ -1,7 +1,7 @@
-4178
+4182
 55C:\GitHub\new-git-project\JS-project\JS-constructor\src133109822638355807 1
 93C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\css-tree\lib\syntax\function133109397088908944 1
-56C:\GitHub\new-git-project\JS-project\JS-constructor\dist133109864700784576 1
+56C:\GitHub\new-git-project\JS-project\JS-constructor\dist133109939989713859 1
 104C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\features\autofocus.js133109397007005413 0
 91C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\watcher\src\shared133109396961919816 1
 98C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\svgo\plugins\removeUselessDefs.js133109397041134476 0
@@ -39,7 +39,6 @@
 124C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133109397006985419 0
 69C:\GitHub\new-git-project\JS-project\JS-constructor\package-lock.json133109397450053595 0
 79C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\yaml\scalar.js133109396990566772 0
-77C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\import-fresh133109396913549824 1
 109C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@swc\helpers\lib\_interop_require_default.js133109397030437401 0
 105C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\codeframe\test\codeframe.test.js133109396980628082 0
 88C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\terser\lib\sourcemap.js133109397037899246 0
@@ -48,7 +47,7 @@
 117C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\features\indeterminate-checkbox.js133109397275561571 0
 100C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\css-tree\lib\syntax\function\var.js133109397088929019 0
 74C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\commander133109396932035862 1
-64C:\GitHub\new-git-project\JS-project\JS-constructor\src\model.js133109864646502328 0
+64C:\GitHub\new-git-project\JS-project\JS-constructor\src\model.js133109931051198360 0
 107C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\features\css-counters.js133109397094465185 0
 82C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\lmdb\util\when.js133109397094355222 0
 82C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\base-x\LICENSE.md133109396901142879 0
@@ -71,13 +70,23 @@
 102C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\css-tree\lib\syntax\node\Dimension.js133109397007920651 0
 104C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\json-parse-even-better-errors\README.md133109396913799735 0
 64C:\GitHub\new-git-project\JS-project\JS-constructor\src\index.js133109456778376511 0
+96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\chrome-trace-event\package.json133109396891263895 0
+91C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\node-releases\package.json133109396901682830 0
+114C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\features\css-text-align-last.js133109397241075243 0
+90C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\acorn\dist\acorn.mjs.d.ts133109396952200632 0
+99C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\core\lib\InternalConfig.js133109397052618019 0
+87C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\svgo\lib\svgo\jsAPI.js133109396989926972 0
+85C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\is-json\package.json133109396883465093 0
+96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\MK.js133109397294730031 0
+97C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\postcss-value-parser\lib\unit.js133109396915552291 0
+70C:\GitHub\new-git-project\JS-project\JS-constructor\src\assets\text.js133109908289383099 0
 96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\ES.js133109397259235403 0
 88C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\terser\tools\props.html133109396919863020 0
 106C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\features\canvas-text.js133109397056165943 0
 138C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked133109397071138141 1
 120C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\core\test\fixtures\invalid-engines\package.json133109397206249891 0
 113C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133109396973579833 0
-62C:\GitHub\new-git-project\JS-project\JS-constructor\src\assets133109864497220608 1
+62C:\GitHub\new-git-project\JS-project\JS-constructor\src\assets133109905838183536 1
 131C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob133109397071248094 1
 87C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\lmdb\dependencies\lmdb133109396900942945 1
 120C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js133109396913789746 0
@@ -87,7 +96,7 @@
 155C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133109397219007252 0
 86C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\domutils\package.json133109396934725701 0
 91C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\cache\lib\index.js133109396930724003 0
-66C:\GitHub\new-git-project\JS-project\JS-constructor\src\index.html133109438791538431 0
+66C:\GitHub\new-git-project\JS-project\JS-constructor\src\index.html133109896510383463 0
 115C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133109396952871232 0
 120C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\features\document-scrollingelement.js133109397254434168 0
 94C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\source-map\lib\source-node.js133109396945114144 0
@@ -99,7 +108,7 @@
 82C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\svgo\lib\style.js133109397049330626 0
 88C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\parent-module\readme.md133109396902253586 0
 89C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\ansi-styles\package.json133109396896376913 0
-64C:\GitHub\new-git-project\JS-project\JS-constructor\src\utils.js133109860015950134 0
+64C:\GitHub\new-git-project\JS-project\JS-constructor\src\utils.js133109885512511138 0
 93C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\escape-string-regexp\license133109396896216935 0
 85C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\resolve-from\license133109396896256916 0
 97C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\cosmiconfig\dist\ExplorerSync.js133109396914219601 0
@@ -115,7 +124,7 @@
 95C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\yaml\dist\warnings-1000a372.js133109397030707309 0
 84C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\lmdb\src\cursor.cpp133109397061331951 0
 113C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133109396954419562 0
-68C:\GitHub\new-git-project\JS-project\JS-constructor\src\templates.js133109852442331790 0
+68C:\GitHub\new-git-project\JS-project\JS-constructor\src\templates.js133109939986906881 0
 96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\bundler-default\LICENSE133109396884685478 0
 74C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@trysound133109396717135667 1
 114C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@babel\highlight\node_modules\chalk\index.js.flow133109396900812991 0
@@ -296,6 +305,7 @@
 75C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\source-map133109396960933770 1
 76C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\htmlparser2133109396941570685 1
 137C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\index.js133109396990496814 0
+77C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\import-fresh133109396913549824 1
 85C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\yaml\browser\util.js133109397028373546 0
 99C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\type-fest\source\set-optional.d.ts133109396990606763 0
 85C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\workers\test133109397013007384 1
@@ -502,9 +512,6 @@
 79C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\parcel\LICENSE133109396885554537 0
 70C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\tslib133109396936094294 1
 95C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@lmdb\lmdb-win32-x64\README.md133109396896106965 0
-101C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@swc\helpers\lib\_read_only_error.js133109397041494356 0
-82C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\commander\LICENSE133109396885113762 0
-86C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\htmlnano\package.json133109397028323580 0
 74C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\type-fest133109396952190638 1
 96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\JO.js133109397280074532 0
 110C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\dist\unpacker\browserVersions.js133109397054949389 0
@@ -985,7 +992,7 @@
 97C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\svgo\plugins\convertTransform.js133109396977768286 0
 101C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\.bin\download-msgpackr-prebuilds.ps1133109397358461857 0
 92C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\regenerator-runtime\path.js133109396890665146 0
-75C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.5525e4b8.css133109864699079659 0
+75C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.5525e4b8.css133109908314486001 0
 104C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\node-gyp-build-optional-packages\bin.js133109396887054376 0
 99C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\type-fest\source\partial-deep.d.ts133109396980367611 0
 97C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\svgo\plugins\removeDimensions.js133109397026047409 0
@@ -1274,13 +1281,6 @@
 88C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\domutils\lib\helpers.js133109396900852984 0
 88C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\browserslist\error.d.ts133109396934865660 0
 82C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\svgo\lib\types.ts133109397055339257 0
-96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\chrome-trace-event\package.json133109396891263895 0
-91C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\node-releases\package.json133109396901682830 0
-114C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\features\css-text-align-last.js133109397241075243 0
-90C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\acorn\dist\acorn.mjs.d.ts133109396952200632 0
-99C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\core\lib\InternalConfig.js133109397052618019 0
-87C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\svgo\lib\svgo\jsAPI.js133109396989926972 0
-85C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\is-json\package.json133109396883465093 0
 101C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c133109396999448106 0
 96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\UA.js133109397337539823 0
 90C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\svgo\dist\svgo.browser.js133109397052214352 0
@@ -1416,6 +1416,7 @@
 103C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\css-tree\lib\syntax\node\Percentage.js133109397061511884 0
 94C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\posthtml-render\dist\index.js133109396891223903 0
 86C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\posthtml\node_modules133109396717195652 1
+77C:\GitHub\new-git-project\JS-project\JS-constructor\dist\text.26c359f1.js.map133109899423042792 0
 96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\WS.js133109397341536046 0
 88C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\color-name\package.json133109396883505079 0
 96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\MN.js133109397295217863 0
@@ -1481,8 +1482,6 @@
 111C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\features\css-color-adjust.js133109397093865377 0
 96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\IL.js133109397274346810 0
 102C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\postcss-value-parser\lib\stringify.js133109396904570664 0
-96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\MK.js133109397294730031 0
-97C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\postcss-value-parser\lib\unit.js133109396915552291 0
 93C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\domhandler\lib\node.d.ts.map133109396920032950 0
 97C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\postcss-value-parser\lib\walk.js133109396919972962 0
 91C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\picocolors\picocolors.d.ts133109396916366800 0
@@ -2025,6 +2024,9 @@
 82C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\htmlnano\index.js133109396943763257 0
 77C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\htmlnano\lib133109396939300612 1
 86C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@lezer\common\LICENSE133109396883585054 0
+101C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@swc\helpers\lib\_read_only_error.js133109397041494356 0
+82C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\commander\LICENSE133109396885113762 0
+86C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\htmlnano\package.json133109397028323580 0
 79C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\.bin\acorn.ps1133109397358461857 0
 88C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\htmlnano\lib\helpers.js133109396936398503 0
 97C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\fs\src\NodeFS.browser.js133109396932461715 0
@@ -2643,7 +2645,7 @@
 101C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\browserVersions.js133109397054390402 0
 105C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\core\test\RequestTracker.test.js133109397090310737 0
 91C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\features133109397342038342 1
-75C:\GitHub\new-git-project\JS-project\JS-constructor\dist\font2.3cfe35bc.jpg133109864699429546 0
+75C:\GitHub\new-git-project\JS-project\JS-constructor\dist\font2.3cfe35bc.jpg133109908317182708 0
 90C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions133109397342748910 1
 96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\AD.js133109396925675437 0
 96C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\caniuse-lite\data\regions\AF.js133109396934685742 0
@@ -3438,7 +3440,7 @@
 87C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\config-default133109396914099646 1
 77C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\core133109397223953664 1
 76C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\css133109396913639799 1
-78C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.975ef6c8.js.map133109864700764592 0
+78C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.975ef6c8.js.map133109939989693869 0
 83C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\diagnostic133109396916236835 1
 75C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\fs133109396961939812 1
 127C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133109397195623591 0
@@ -3875,6 +3877,7 @@
 149C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\nested.js133109397042010371 0
 91C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@lezer\lr\dist\decode.d.ts133109396931226785 0
 152C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\package.json133109397058913357 0
+75C:\GitHub\new-git-project\JS-project\JS-constructor\dist\text.9ae5cddc.html133109902847247176 0
 141C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\main.js133109397037388284 0
 146C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\package.json133109397059123257 0
 149C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\package.json133109397056427209 0
@@ -4173,7 +4176,8 @@
 78C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\.bin\svgo.ps1133109397358541837 0
 76C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\.bin\terser133109397358621818 0
 80C:\GitHub\new-git-project\JS-project\JS-constructor\node_modules\.bin\terser.cmd133109397358621818 0
-79C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.5525e4b8.css.map133109864699269587 0
+79C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.5525e4b8.css.map133109908314535995 0
 74C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.795f8bcf.js133109820975921498 0
-74C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.975ef6c8.js133109864700704614 0
-67C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.html133109864700159459 0
+74C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.975ef6c8.js133109939989553919 0
+67C:\GitHub\new-git-project\JS-project\JS-constructor\dist\index.html133109908324029567 0
+73C:\GitHub\new-git-project\JS-project\JS-constructor\dist\text.26c359f1.js133109899422772882 0
