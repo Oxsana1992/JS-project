@@ -37,6 +37,6 @@ export const model = [
         styles: {
             background: 'linear-gradient(to left, #DE3163, #40E0D0)',
             'font-weight': 'bold',
-            padding: '1rem'
+            padding: '2rem 0'
         }}),
 ]

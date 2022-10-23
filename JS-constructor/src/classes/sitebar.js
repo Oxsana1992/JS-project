@@ -11,9 +11,9 @@ export class Sitebar {
 
     init () {
         this.$el.insertAdjacentHTML('afterbegin', this.template)
-        this.$el.addEventListener('submit', this.add.bind(this))
+        this.$el.addEventListener('submit', this.add.bind(this)) 
     }
-    
+     
     get template() {
         return [
             block('title'),
